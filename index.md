@@ -1,4 +1,4 @@
-### THE PERVASIVE EFFECTS OF INCONGRUENCE BETWEEN ECONOMIC AND MORAL VALUES: A CRITIQUE OF FINANCE
+### The Pervasive Effects of Economic and Moral Value Incongruence: A Critique Of Finance
 
 ## Undergraduate Senior Thesis by Bruno Kömel
 
