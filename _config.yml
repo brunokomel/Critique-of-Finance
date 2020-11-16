@@ -1,14 +1,4 @@
 theme: jekyll-theme-slate
 
----
----
-
-@import "{{ site.theme }}";
-
-footer {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
-}
+github:
+  is_project_page: false
