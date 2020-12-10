@@ -2,7 +2,7 @@
 
 #### Undergraduate Senior Thesis by Bruno Kömel
 
-[Critique of Finance](https://github.com/brunokomel/Critique-of-Finance/blob/gh-pages/SIP%20Final%20Draft%20Grad.pdf)
+Link to Paper: [Critique of Finance](https://github.com/brunokomel/Critique-of-Finance/blob/gh-pages/SIP%20Final%20Draft%20Grad.pdf)
 
 ##### Abstract: 
 Markets worldwide have been so impressed with what finance can do that few have stopped to think about what finance should do. It seems America has failed to question whether financial markets have become inappropriately powerful. It is true that finance and creative accounting have increased firms’ profitability and market value, but it also seems to be true that investment in such areas has deprived the world economy of growth. Real product development is malnourished, while financial engineering has been spoiled rotten. This paper will provide an overview of how the American economy has suffered by putting its eggs in the wrong basket. The analysis will explore the shift from the real economy to artificial finance, the ways the shift contributed to the crisis of 2008, and the underlying reason for this infamous shift. This analysis will be followed by a critique of the system and of the findings themselves. 
